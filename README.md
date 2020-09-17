@@ -2,13 +2,13 @@
 
 > A curated list with modern Bootstrap Templates provided for free by open-source enthusiasts, originally published on Dev.to.
 
----
+<br /> 
 
-> Content provided by **[AppSeed](https://appseed.us/?ref=dev)**, a platform used by 2k+ developers.
+**Content provided by [AppSeed](https://appseed.us/?ref=dev)**, a platform used by 2k+ developers.
 
----
+<br /> 
 
-> Thank you for reading! TL;RD; links (for fast runners)
+## Article links
 
 - [Black Dashboard](https://www.creative-tim.com/product/black-dashboard) (product page) - [LIVE Demo](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html)
 - [AdminLTE](https://adminlte.io/) (product page) - [LIVE Demo](https://adminlte.io/themes/v3/)
@@ -23,9 +23,11 @@
 - [Chameleon Admin Lite](https://themeselection.com/products/chameleon-admin-free-bootstrap-dashboard-template/) (product page) - [LIVE Demo](https://themeselection.com/demo/chameleon-free-bootstrap-admin-template/html/ltr/)
 - [Xtreme Bootstrap Lite](https://www.wrappixel.com/templates/xtreme-admin-lite/) (product page)
 
----
+<br />
 
 ![Bootstrap Template - Black Dashboard.](https://raw.githubusercontent.com/admin-dashboards/free-dashboard-black/master/media/free-dashboard-black-config-intro.gif)
+
+<br />
 
 ---
 [Bootstrap Templates](https://dev.to/sm0ke/bootstrap-templates-open-source-and-free-63e) - Free & open-source modern UI kits coded on top of Bootstrap framework. 
