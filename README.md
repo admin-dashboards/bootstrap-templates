@@ -77,7 +77,31 @@ Flexy template packs in some of the best plugins, elements, widgets, and tools t
 
 <br />
 
+## ✨ [Soft UI Design System](https://www.creative-tim.com/product/soft-ui-design-system?AFFILIATE=128200)
+
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks, and fully coded pages, [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) is ready to help you create stunning websites and web apps. 
+
+- 👉 [Soft UI Design System](https://www.creative-tim.com/product/soft-ui-design-system?AFFILIATE=128200) - product page
+- 👉 [Soft UI Design System](https://demos.creative-tim.com/soft-ui-design-system/index.html?AFFILIATE=128200) - LIVE demo 
+
+![Soft UI Design System - Open-Source Bootstrap 5 UI Kit.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pkpbfcoh1kk2t8w11wd9.png)
+
+<br />
+
+## ✨ [Bootstrap Xtreme Lite](https://bit.ly/2LaxY67)
+
+You can now create a fantastic user interface with our top-notch Bootstrap layout templates now available for free download. This template will help you kick off your online presence in style and is flexible and responsive to work across screens and browsers. 
+
+- 👉 [Xtreme Bootstrap Lite](https://bit.ly/2LaxY67) - `product page`
+- 🎁 More [Bootstrap Templates](https://www.wrappixel.com/templates/category/dashboard-templates/?ref=157) crafted by `WrapPixel`
+
+This template is perfect for tracking all kinds of data in an efficient and simplified manner. The best part is that you can get your project up and running without having to spend a dime on expensive designers or developers.
+
+![Bootstrap Template - Xtreme Bootstrap Lite.](https://raw.githubusercontent.com/admin-dashboards/bootstrap-templates/master/media/bootstrap-template-xtreme-lite.png)
+
+<br />
+
 ---
-[Bootstrap Templates](https://dev.to/sm0ke/bootstrap-templates-open-source-and-free-63e) - Free & open-source modern UI kits coded on top of Bootstrap framework. 
+[Bootstrap Templates](https://www.admin-dashboards.com/bootstrap-5-templates/) - Free & open-source modern UI kits coded on top of Bootstrap framework. 
 
 
