@@ -1,6 +1,6 @@
 # [Bootstrap Templates](https://www.admin-dashboards.com/bootstrap-5-templates/)
 
-This article presents a short-list with open-source **[Bootstrap 5 Templates](https://www.admin-dashboards.com/bootstrap-5-templates/)** - the world’s most popular front-end open-source toolkit, featuring Sass variables and mixins, a responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
+This article presents a short-list with open-source **[Bootstrap Templates](https://www.admin-dashboards.com/bootstrap-5-templates/)** - the world’s most popular front-end open-source toolkit, featuring Sass variables and mixins, a responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
 
 > Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
