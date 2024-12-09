@@ -6,7 +6,29 @@ This article presents a short-list with open-source **[Bootstrap Templates](http
 
 <br />
 
-## ✨ [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23)
+## [Soft UI Dashboard](https://bit.ly/2Q1uIfK)
+
+Soft UI Dashboard is an open-source Bootstrap 5 template crafted by Creative-Tim. The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Soft UI Dashboard](https://bit.ly/2Q1uIfK) - `product page`
+- 👉 More [Free Templates](https://bit.ly/3wd5D25) - provided by `Creative-Tim`
+
+![Soft UI Dashboard - Open-source Bootstrap 5 template crafted by Creative-Tim.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gaescwq40mhh8zq62qxu.png)
+
+<br />
+
+## [Bootstrap Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) 
+
+Material Dashboard is a free Material Bootstrap Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy-to-use and beautiful set of components. 
+
+- 👉 [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE Demo`
+ 
+![Bootstrap Template Material - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpku1oz9kkrn996niem.png)
+
+<br />
+
+## [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23)
 
 Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.
 
@@ -19,7 +41,7 @@ The pre-built pages of the templates are intuitive and very well-designed. Star 
 
 <br />
 
-## ✨ [Corporate UI Dashboard](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200)
+## [Corporate UI Dashboard](https://www.creative-tim.com/product/corporate-ui-dashboard?AFFILIATE=128200)
 
 This template is the latest UI released by `Creative-Tim`. The product comes with a clean & modern design pattern with a few pages inspired by the crypto niche. 
 
@@ -30,30 +52,7 @@ This template is the latest UI released by `Creative-Tim`. The product comes wit
 
 <br />
 
-## ✨ [Bootstrap Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) 
-
-Material Dashboard is a free Material Bootstrap Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy-to-use and beautiful set of components. 
-
-- 👉 [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE Demo`
- 
-![Bootstrap Template Material - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpku1oz9kkrn996niem.png)
-
-<br />
-
-## ✨ [Soft UI Dashboard](https://bit.ly/2Q1uIfK)
-
-Soft UI Dashboard is an open-source Bootstrap 5 template crafted by Creative-Tim. The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [Soft UI Dashboard](https://bit.ly/2Q1uIfK) - `product page`
-- 👉 More [Free Templates](https://bit.ly/3wd5D25) - provided by `Creative-Tim`
-
-
-![Soft UI Dashboard - Open-source Bootstrap 5 template crafted by Creative-Tim.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gaescwq40mhh8zq62qxu.png)
-
-<br />
-
-## ✨ [Flexy Bootstrap Admin Lite](https://www.wrappixel.com/templates/flexy-admin-lite/?ref=157)
+## [Flexy Bootstrap Admin Lite](https://www.wrappixel.com/templates/flexy-admin-lite/?ref=157)
 
 Flexy template packs in some of the best plugins, elements, widgets, and tools to give you the power to customize your designs and applications exactly as you need them. It can add a distinguished touch to your web development efforts.
 
