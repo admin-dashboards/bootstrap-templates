@@ -1,17 +1,17 @@
-# [Bootstrap Templates](https://www.admin-dashboards.com/bootstrap-5-templates/)
+# [Bootstrap Templates](https://app-generator.dev/docs/templates/bootstrap.html)
 
-This article presents a short-list with open-source **[Bootstrap Templates](https://www.admin-dashboards.com/bootstrap-5-templates/)** - the world’s most popular front-end open-source toolkit, featuring Sass variables and mixins, a responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
+This article presents a short-list with open-source **[Bootstrap Templates](https://app-generator.dev/docs/templates/bootstrap.html)** - the world’s most popular front-end open-source toolkit, featuring Sass variables and mixins, a responsive grid system, extensive prebuilt components, and powerful JavaScript plugins. 
 
-> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
+> *Thanks for reading!* - Content provided by **[App Generator](https://app-generator.dev/)**.
 
 <br />
 
-## [Soft UI Dashboard](https://bit.ly/2Q1uIfK)
+## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)
 
-Soft UI Dashboard is an open-source Bootstrap 5 template crafted by Creative-Tim. The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+**Soft UI Dashboard** is an open-source Bootstrap 5 template crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-- 👉 [Soft UI Dashboard](https://bit.ly/2Q1uIfK) - `product page`
-- 👉 More [Free Templates](https://bit.ly/3wd5D25) - provided by `Creative-Tim`
+- 👉 [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 More [Free Templates](https://www.creative-tim.com/templates/free?AFFILIATE=128200) - provided by `Creative-Tim`
 
 ![Soft UI Dashboard - Open-source Bootstrap 5 template crafted by Creative-Tim.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gaescwq40mhh8zq62qxu.png)
 
@@ -88,6 +88,6 @@ This template is perfect for tracking all kinds of data in an efficient and simp
 <br />
 
 ---
-[Bootstrap Templates](https://www.admin-dashboards.com/bootstrap-5-templates/) - Free & open-source modern UI kits coded on top of Bootstrap framework. 
+[Bootstrap Templates](https://app-generator.dev/docs/templates/bootstrap.html) - Free & open-source modern UI kits coded on top of Bootstrap framework. 
 
 
