@@ -6,6 +6,19 @@ This article presents a short-list with open-source **[Bootstrap Templates](http
 
 <br />
 
+## [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23)
+
+Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. **[Star Admin](https://app-generator.dev/product/star-admin/)** has an impressive typography that compliments exceedingly with its colorful and elegant interface.
+
+- 👉 [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23) - `product page`
+- 👉 [Star Admin Bootstrap 5](https://www.bootstrapdash.com/demo/star-admin2-free/template/?ref=23) - `LIVE demo`
+
+The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
+
+![Star Admin Bootstrap 5 - Open-Source Dashboard template.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7gwrxq6wqepn9sp3zni.png) 
+
+<br />
+
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)
 
 **Soft UI Dashboard** is an open-source Bootstrap 5 template crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
@@ -25,19 +38,6 @@ Material Dashboard is a free Material Bootstrap Admin with a fresh, new design i
 - 👉 [Material Dashboard](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE Demo`
  
 ![Bootstrap Template Material - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpku1oz9kkrn996niem.png)
-
-<br />
-
-## [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23)
-
-Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.
-
-- 👉 [Star Admin Bootstrap 5](https://www.bootstrapdash.com/product/star-admin-free?ref=23) - `product page`
-- 👉 [Star Admin Bootstrap 5](https://www.bootstrapdash.com/demo/star-admin2-free/template/?ref=23) - `LIVE demo`
-
-The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
-
-![Star Admin Bootstrap 5 - Open-Source Dashboard template.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7gwrxq6wqepn9sp3zni.png) 
 
 <br />
 
