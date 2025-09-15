@@ -6,6 +6,17 @@ This article presents a short-list with open-source **[Bootstrap Templates](http
 
 <br />
 
+## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)
+
+**Soft UI Dashboard** is an open-source Bootstrap 5 template crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+- 👉 [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) - `product page`
+- 👉 More [Free Templates](https://www.creative-tim.com/templates/free?AFFILIATE=128200) - provided by `Creative-Tim`
+
+![Soft UI Dashboard - Open-source Bootstrap 5 template crafted by Creative-Tim.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gaescwq40mhh8zq62qxu.png)
+
+<br />
+
 ## 👉 [HOSTINGER](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452) - High-quality Service we recommend
 
 One of the world's fastest-growing hosting providers, **Hostinger** serves a global community of over 4 million website owners across 150+ countries. 
@@ -15,6 +26,17 @@ One of the world's fastest-growing hosting providers, **Hostinger** serves a glo
 - ✅ **[Website Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=2949)** - Build Websites in no-time
 - ✅ **[eCommerce Builder](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=4140)** - Your online store, created quickly with AI
 - ✅ **[StartUp Cloud Hosting - $7.99/mo](https://www.hostg.xyz/aff_c?offer_id=6&aff_id=207452&url_id=17)** - 3months FREE
+
+<br />
+
+## [Bootstrap Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) 
+
+Material Dashboard is a free Material Bootstrap Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy-to-use and beautiful set of components. 
+
+- 👉 [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - `product page`
+- 👉 [Material Dashboard](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE Demo`
+ 
+![Bootstrap Template Material - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpku1oz9kkrn996niem.png)
 
 <br />
 
@@ -28,28 +50,6 @@ Star admin is a beautifully designed admin template featuring a fine selection o
 The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
 
 ![Star Admin Bootstrap 5 - Open-Source Dashboard template.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7gwrxq6wqepn9sp3zni.png) 
-
-<br />
-
-## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)
-
-**Soft UI Dashboard** is an open-source Bootstrap 5 template crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-- 👉 [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200) - `product page`
-- 👉 More [Free Templates](https://www.creative-tim.com/templates/free?AFFILIATE=128200) - provided by `Creative-Tim`
-
-![Soft UI Dashboard - Open-source Bootstrap 5 template crafted by Creative-Tim.](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gaescwq40mhh8zq62qxu.png)
-
-<br />
-
-## [Bootstrap Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) 
-
-Material Dashboard is a free Material Bootstrap Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy-to-use and beautiful set of components. 
-
-- 👉 [Material Dashboard](https://www.creative-tim.com/product/material-dashboard?AFFILIATE=128200) - `product page`
-- 👉 [Material Dashboard](https://demos.creative-tim.com/material-dashboard/pages/dashboard.html?AFFILIATE=128200) - `LIVE Demo`
- 
-![Bootstrap Template Material - Free Template](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpku1oz9kkrn996niem.png)
 
 <br />
 
