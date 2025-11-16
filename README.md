@@ -6,6 +6,16 @@ This article presents a short-list with open-source **[Bootstrap Templates](http
 
 <br />
 
+## `PROMO` Domains for sale
+
+- 👉 **[AppSeed.us - $49k](https://appseed.us/)**
+- 👉 **[Admin-Dashboards.com - $15k](https://www.admin-dashboards.com/)**
+- 👉 **[UI-Themes.com - $5k](https://ui-themes.com/)**
+- 👉 **[Simpllo.com - $10k](https://www.simpllo.com/)**
+- 👉 **[123SiteBuilder.net - $5k](https://www.123sitebuilder.net/)**
+
+<br />
+
 ## [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)
 
 **Soft UI Dashboard** is an open-source Bootstrap 5 template crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. This Bootstrap 5 design follows the Soft UI Design System concepts, a modern pattern provided by this amazing agency. The product comes with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
